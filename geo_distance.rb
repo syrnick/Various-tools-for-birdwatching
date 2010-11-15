@@ -19,10 +19,6 @@ module Distance
     
     #do the calculation with radians as units
     arg = Math.cos(a1)*Math.cos(b1)*Math.cos(a2)*Math.cos(b2) + Math.cos(a1)*Math.sin(b1)*Math.cos(a2)*Math.sin(b2) + Math.sin(a1)*Math.sin(a2);
-    begin
-      d = r * Math.acos([arg,1.0].min)
-    rescue
-      raise "Blah #{arg}, #{$!}"
-    end
+    d = r * Math.acos([arg,1.0].min)
   end
 end
