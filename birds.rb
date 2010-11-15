@@ -12,8 +12,8 @@ end
 
 POI_RADIUS = 1.67
 
-#counties_of_interest = ["San Mateo","Santa Clara", "Santa Cruz", "Alameda", "Contra Costa", "Solano", "Napa", "Sonoma", "Marin", "San Francisco"] 
-counties_of_interest = ["Westchester", "Bronx", "Rockland", "Orange", "Putnam"]
+counties_of_interest = ["San Mateo","Santa Clara", "Santa Cruz", "Alameda", "Contra Costa", "Solano", "Napa", "Sonoma", "Marin", "San Francisco"] 
+#counties_of_interest = ["Westchester", "Bronx", "Rockland", "Orange", "Putnam"]
 observations_file = ARGV[0] || "./summary.html"
 landmarks_file = ARGV[1] 
 
