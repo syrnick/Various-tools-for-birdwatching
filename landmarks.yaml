@@ -51,7 +51,7 @@
   lat:   37.8304863
   long:  -122.5329514
 -
-  name:  Hills around Napa
+  name:  hills around Napa
   lat:   38.4973324
   long:  -122.3844337
 -
@@ -165,4 +165,160 @@
 -
   name:  Coast
   lat:   37.4108007 
-  long:  -122.4049795  
+  long:  -122.4049795
+-
+  name:  Livermore
+  lat:   37.6818314
+  long:  -121.7680588
+-
+  name:  East Bay hills
+  lat:   37.686676
+  long:  -121.6400671
+-
+  name:  East Bay hills
+  lat:   37.9236178
+  long:  -122.1968079
+-
+  name:  Muir-Bolinas-GoldenGate
+  lat:   37.9236178
+  long:  -122.1968079
+-
+  name:  SF
+  lat:   37.8051812
+  long:  -122.4285507
+-
+  name:  Coast
+  lat:   37.2255
+  long:  -122.409
+-
+  name:  Silicon Valley
+  lat:   37.2639
+  long:  -122.0218
+-
+  name:  SC hills
+  lat:   37.0154381
+  long:  -122.0824814
+-
+  name:  Solano flats
+  lat:   38.2815826
+  long:  -121.8052483
+-
+  name:  Wine valleys
+  lat:   38.2208818
+  long:  -122.3946905
+-
+  name:  East Bay Shore
+  lat:   37.6436652
+  long:  -122.1494293
+-
+  name:  East Bay hills
+  lat:   37.8930465
+  long:  -122.2434998
+-
+  name:  Muir-Bolinas-GoldenGate
+  lat:   37.8618272
+  long:  -122.5861573
+-
+  name:  SF
+  lat:   37.8037613
+  long:  -122.4774715
+-
+  name:  Coast
+  lat:   37.182
+  long:  -122.394
+-
+  name:  SE hills
+  lat:   37.3893917
+  long:  -121.4909859
+-
+  name:  Santa Cruz
+  lat:   36.9814507
+  long:  -121.945281
+-
+  name:  Solano flats
+  lat:   38.2081067
+  long:  -122.0265198
+-
+  name:  Wine valleys
+  lat:   38.3432319
+  long:  -122.6725325
+-
+  name:  East Bay Shore
+  lat:   37.5534227
+  long:  -122.0875902
+-
+  name:  Wine valleys
+  lat:   38.126594
+  long:  -122.5262207
+-
+  name:  SF
+  lat:   37.7695274
+  long:  -122.4979877
+-
+  name:  Coast
+  lat:   37.1542969
+  long:  -122.3351669  
+-
+  name:  Sloughs
+  lat:   37.4214111
+  long:  -122.0704144
+-
+  name:  Coast
+  lat:   37.0968935
+  long:  -122.28001
+-
+  name:  Wine valleys
+  lat:   38.4398755
+  long:  -122.7668095
+-
+  name:  East Bay hills
+  lat:   37.7069116
+  long:  -121.559
+-
+  name:  Pt Reyes
+  lat:   38.0439975
+  long:  -122.971918
+-
+  name:  SE hills
+  lat:   37.4160287
+  long:  -121.4991519
+-
+  name:  SC hills
+  lat:   37.0840068
+  long:  -122.0608203
+-
+  name:  NE Bay cities
+  lat:   37.8940921
+  long:  -122.3149967
+-
+  name:  Muir-Bolinas-GoldenGate
+  lat:   37.9312
+  long:  -122.7135
+-
+  name:  Santa Cruz
+  lat:   36.9709125
+  long:  -121.9131804
+-
+  name:  Marin Bay
+  lat:   37.8898798
+  long:  -122.5144511
+-
+  name:  Pt Reyes
+  lat:   38.1190611
+  long:  -122.9522467
+-
+  name:  Monterey Bay
+  lat:   36.9018275
+  long:  -121.7841125
+-
+  name:  Santa Cruz
+  lat:   36.9853459
+  long:  -122.0579338
+
+
+
+  
+  
+    
+  
+  
