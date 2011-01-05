@@ -3,7 +3,9 @@ require 'nokogiri'
 require 'open-uri'
 require 'yaml'
 
-map_url='http://maps.google.com/maps/ms?ie=UTF8&hl=en&vps=1&jsv=304e&msa=0&output=georss&msid=202933467189883314896.00049912d6823abb690f2'
+default_map_url='http://maps.google.com/maps/ms?ie=UTF8&hl=en&vps=1&jsv=304e&msa=0&output=georss&msid=202933467189883314896.00049912d6823abb690f2'
+
+map_url = ARGV[0] || default_map_url
 
 doc = Nokogiri::XML( open(map_url) )
 

@@ -6,17 +6,23 @@ require 'geo_distance'
 require 'fastercsv'
 require 'regions'
 
-if ARGV.size < 2
-  p "Usage: birds.rb observations_file landmarks_file"
+if ARGV.size == 0
+  p "Usage: ruby birdwatching_planner.rb observations_file [landmarks_file=landmarks.yml] [counties_file=counties.yml]"
   exit
 end
 
 POI_RADIUS = 1.67
 
-counties_of_interest = ["San Mateo","Santa Clara", "Santa Cruz", "Alameda", "Contra Costa", "Solano", "Napa", "Sonoma", "Marin", "San Francisco"] 
-#counties_of_interest = ["Westchester", "Bronx", "Rockland", "Orange", "Putnam"]
 observations_file = ARGV[0] || "./summary.html"
-landmarks_file = ARGV[1] 
+landmarks_file = ARGV[1] || "landmarks.yml"
+counties_file = ARGV[2] || "counties.yml"
+
+
+#counties_of_interest = ["San Mateo","Santa Clara", "Santa Cruz", "Alameda", "Contra Costa", "Solano", "Napa", "Sonoma", "Marin", "San Francisco"] 
+#counties_of_interest = ["Westchester", "Bronx", "Rockland", "Orange", "Putnam"]
+counties_of_interest = File.open( counties_file ) {|lf| YAML.load(lf)}
+p counties_of_interest
+exit
 
 doc = File.open(observations_file,'r') do |file|
   Nokogiri::HTML( file.read )
