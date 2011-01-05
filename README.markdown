@@ -7,10 +7,11 @@ their respective zones. This way you can see, which area is the best
 to visit next.
 
  1. First of all, some preparation:
-       gem install nokogiri
-       gem install fastercsv
-       gem install yaml
-       gem install clipper
+ 
+         gem install nokogiri
+         gem install fastercsv
+         gem install yaml
+         gem install clipper
     
  1. Then you need a map with regions you are interested in. Google maps work
 great for this. Here's an example of our map for Bay Area:
