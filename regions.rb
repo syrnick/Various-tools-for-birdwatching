@@ -1,7 +1,7 @@
 require 'rubygems'
 require 'clipper'
 
-
+#Check that the point is in the polygon
 
 def is_point_in_poly(lat,long, poly, eps=0.01)
   region_poly=poly[:path]
@@ -14,7 +14,7 @@ def is_point_in_poly(lat,long, poly, eps=0.01)
 end
 
 
-
+#TODO: convert this to rspecs
 if false
   poly = {:path => [[0,0],[0,100],[100,100],[100,0]] }
   lat = 10 

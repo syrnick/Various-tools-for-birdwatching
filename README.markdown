@@ -6,7 +6,13 @@ geographic zone and produces an easy-to-read CSV with all alerts and
 their respective zones. This way you can see, which area is the best
 to visit next.
 
- 1. First of all, you need a map with geographic regions. Google maps work
+ 1. First of all, some preparation:
+       gem install nokogiri
+       gem install fastercsv
+       gem install yaml
+       gem install clipper
+    
+ 1. Then you need a map with regions you are interested in. Google maps work
 great for this. Here's an example of our map for Bay Area:
 http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=202933467189883314896.00049912d6823abb690f2&ll=37.637072,-122.276459&spn=0.494809,1.126099&t=h&z=10
 
@@ -37,6 +43,11 @@ http://maps.google.com/maps/ms?ie=UTF8&hl=en&t=h&msa=0&output=georss&msid=202933
     
     ruby birdwatching_planner.rb alerts_05_jan_2011.html landmarks.yml counties.yml >birds.csv
     
- This created a CSV with all alerts nicely grouped by the regions that we outlined on the google map.
+ This created a CSV (birds.csv) with all alerts nicely grouped by the
+ regions that we outlined on the google map. Open it with Excel and have fun! 
+ 
+ Happy birdwatching!
+ 
+  
 
 
