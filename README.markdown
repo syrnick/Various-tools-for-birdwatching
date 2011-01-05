@@ -10,7 +10,7 @@ to visit next.
 great for this. Here's an example of our map for Bay Area:
 http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=202933467189883314896.00049912d6823abb690f2&ll=37.637072,-122.276459&spn=0.494809,1.126099&t=h&z=10
 
- You can create your own map and draw your regions on it. The planner will collect all alerts within each region.
+    You can create your own map and draw your regions on it. The planner will collect all alerts within each region.
 
  1. When you are done, you will need an RSS feed for that map. Look for "RSS" link above the map on the right. Copy the URL. It should look something like this:
 http://maps.google.com/maps/ms?ie=UTF8&hl=en&t=h&msa=0&output=georss&msid=202933467189883314896.00049912d6823abb690f2
