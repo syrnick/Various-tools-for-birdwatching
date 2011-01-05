@@ -18,11 +18,11 @@ http://maps.google.com/maps/ms?ie=UTF8&hl=en&t=h&msa=0&output=georss&msid=202933
  1. Now we can generate our landmarks file from this feed. Run:
     
     
-     ruby google_map_to_landmarks.rb "Your RSS URL" >landmarks.yml
+         ruby google_map_to_landmarks.rb "Your RSS URL" >landmarks.yml
      
- e.g.
+    e.g.
      
-     ruby google_map_to_landmarks.rb http://maps.google.com/maps/ms?ie=UTF8&hl=en&t=h&msa=0&output=georss&msid=202933467189883314896.00049912d6823abb690f2 >landmarks.yml
+         ruby google_map_to_landmarks.rb http://maps.google.com/maps/ms?ie=UTF8&hl=en&t=h&msa=0&output=georss&msid=202933467189883314896.00049912d6823abb690f2 >landmarks.yml
      
  1. Create the list of counties that you are interested in. See counties.yml for an example.
  
