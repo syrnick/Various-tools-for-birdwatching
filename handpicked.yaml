@@ -1,0 +1,540 @@
+-
+  name:  Pt Reyes
+  lat:   37.9956216
+  long:  -122.9782104
+-
+  name:  Ocean
+  lat:   37.69852
+  long:  -123.002789
+-
+  name:  East Bay shore
+  lat:   37.740868  
+  long:  -122.210464
+-
+  name:  Stockton + flats
+  lat:   37.8142932 
+  long:  -121.6016579
+-
+  name:  Marin Bay
+  lat:   37.8611326
+  long:  -122.4863577
+-
+  name:  SF
+  lat:   37.7563299
+  long:  -122.3967505
+-
+  name:  Sloughs
+  lat:   37.5635405
+  long:  -122.248714
+-
+  name:  Silicon Valley
+  lat:   37.4425693
+  long:  -122.1150649
+-
+  name:  Santa Cruz
+  lat:   36.9503542
+  long:  -122.065845
+-
+  name:  Solano flats
+  lat:   38.4920255
+  long:  -122.0272064
+-
+  name:  NapaSonoma
+  lat:   38.229483
+  long:  -122.5979805
+-
+  name:  NE Bay cities
+  lat:   37.7860736
+  long:  -122.2646141
+-
+  name:  Muir-Bolinas-GoldenGate
+  lat:   37.8304863
+  long:  -122.5329514
+-
+  name:  Hill around Napa
+  lat:   38.4973324
+  long:  -122.3844337
+-
+  name:  SF
+  lat:   37.8047658
+  long:  -122.4562311
+-
+  name:  Sloughs
+  lat:   37.543
+  long:  -122.22913  
+-
+  name:  Sloughs
+  lat:   37.4298703
+  long:  -121.9793612
+-
+  name:  Santa Cruz
+  lat:   36.9723054
+  long:  -122.0230865
+-
+  name:  NW Sonoma
+  lat:   38.4397495
+  long:  -123.1100571
+-
+  name:  East Bay hills
+  lat:   37.5750534
+  long:  -121.6913996
+-
+  name:  Muir-Bolinas-GoldenGate
+  lat:   37.9100652
+  long:  -122.6845488
+-
+  name:  Ocean
+  lat:   37.7017031
+  long:  -122.9736056
+-
+  name:  Half Moon Bay
+  lat:   37.4937065
+  long:  -122.4934525
+-
+  name:  OSPs
+  lat:   37.1629329
+  long:  -121.8347311
+-
+  name:  Bodega
+  lat:   38.3208516
+  long:  -123.0493641
+-
+  name:  NE Bay cities
+  lat:   37.8628605
+  long:  -122.3176146
+-
+  name:  SF
+  lat:   37.7383704
+  long:  -122.4533987
+-
+  name:  Half Moon Bay
+  lat:   37.4754711
+  long:  -122.4479485
+-
+  name:  OSPs
+  lat:   37.3203457
+  long:  -122.1871948
+-
+  name:  Monterey Bay
+  lat:   36.8524281
+  long:  -121.8111277
+-
+  name:  Bodega
+  lat:   38.3020617
+  long:  -123.0489349
+-
+  name:  Stockton + flats
+  lat:   37.7948641
+  long:  -121.576252
+-
+  name:  SF
+  lat:   37.728044
+  long:  -122.4938035
+-
+  name:  Coast
+  lat:   37.2626495
+  long:  -122.3267746
+-
+  name:  Santa Cruz
+  lat:   36.9526354
+  long:  -122.0326996
+-
+  name:  Skyline
+  lat:   37.4975036
+  long:  -122.3717737
+-
+  name:  OSPs
+  lat:   37.4375675
+  long:  -122.370615
+-
+  name:  Sloughs
+  lat:   37.5457853
+  long:  -122.2544003
+-
+  name:  OSPs
+  lat:   37.4171748
+  long:  -122.3173571
+-
+  name:  Skyline
+  lat:   37.5095897
+  long:  -122.3518181
+-
+  name:  Coast
+  lat:   37.3242363
+  long:  -122.4000549
+-
+  name:  Coast
+  lat:   37.4108007 
+  long:  -122.4049795
+-
+  name:  Livermore
+  lat:   37.6818314
+  long:  -121.7680588
+-
+  name:  East Bay hills
+  lat:   37.686676
+  long:  -121.6400671
+-
+  name:  East Bay hills
+  lat:   37.9236178
+  long:  -122.1968079
+-
+  name:  Muir-Bolinas-GoldenGate
+  lat:   37.9236178
+  long:  -122.1968079
+-
+  name:  SF
+  lat:   37.8051812
+  long:  -122.4285507
+-
+  name:  Coast
+  lat:   37.2255
+  long:  -122.409
+-
+  name:  Silicon Valley
+  lat:   37.2639
+  long:  -122.0218
+-
+  name:  SC hills
+  lat:   37.0154381
+  long:  -122.0824814
+-
+  name:  Solano flats
+  lat:   38.2815826
+  long:  -121.8052483
+-
+  name:  Wine valleys
+  lat:   38.2208818
+  long:  -122.3946905
+-
+  name:  East Bay shore
+  lat:   37.6436652
+  long:  -122.1494293
+-
+  name:  East Bay hills
+  lat:   37.8930465
+  long:  -122.2434998
+-
+  name:  Muir-Bolinas-GoldenGate
+  lat:   37.8618272
+  long:  -122.5861573
+-
+  name:  SF
+  lat:   37.8037613
+  long:  -122.4774715
+-
+  name:  Coast
+  lat:   37.182
+  long:  -122.394
+-
+  name:  SE hills
+  lat:   37.3893917
+  long:  -121.4909859
+-
+  name:  Santa Cruz
+  lat:   36.9814507
+  long:  -121.945281
+-
+  name:  Solano flats
+  lat:   38.2081067
+  long:  -122.0265198
+-
+  name:  Wine valleys
+  lat:   38.3432319
+  long:  -122.6725325
+-
+  name:  East Bay shore
+  lat:   37.5534227
+  long:  -122.0875902
+-
+  name:  Wine valleys
+  lat:   38.126594
+  long:  -122.5262207
+-
+  name:  SF
+  lat:   37.7695274
+  long:  -122.4979877
+-
+  name:  Coast
+  lat:   37.1542969
+  long:  -122.3351669  
+-
+  name:  Sloughs
+  lat:   37.4214111
+  long:  -122.0704144
+-
+  name:  Coast
+  lat:   37.0968935
+  long:  -122.28001
+-
+  name:  Wine valleys
+  lat:   38.4398755
+  long:  -122.7668095
+-
+  name:  East Bay hills
+  lat:   37.7069116
+  long:  -121.559
+-
+  name:  Pt Reyes
+  lat:   38.0439975
+  long:  -122.971918
+-
+  name:  SE hills
+  lat:   37.4160287
+  long:  -121.4991519
+-
+  name:  SC hills
+  lat:   37.0840068
+  long:  -122.0608203
+-
+  name:  NE Bay cities
+  lat:   37.8940921
+  long:  -122.3149967
+-
+  name:  Muir-Bolinas-GoldenGate
+  lat:   37.9312
+  long:  -122.7135
+-
+  name:  Santa Cruz
+  lat:   36.9709125
+  long:  -121.9131804
+-
+  name:  Marin Bay
+  lat:   37.8898798
+  long:  -122.5144511
+-
+  name:  Pt Reyes
+  lat:   38.1190611
+  long:  -122.9522467
+-
+  name:  Monterey Bay
+  lat:   36.9018275
+  long:  -121.7841125
+-
+  name:  Santa Cruz
+  lat:   36.9853459
+  long:  -122.0579338
+-
+  name:  Pt Reyes
+  lat:   38.0910664
+  long:  -122.8422546
+-
+  name:  NapaSonoma
+  lat:   38.492332
+  long:  -122.4583152
+-
+  name:  SF
+  lat:   37.7681885
+  long:  -122.4713984
+-
+  name:  Coast
+  lat:   37.2638453
+  long:  -122.412036
+-
+  name:  SE hills
+  lat:   37.35153
+  long:  -121.47818
+-
+  name:  NE Bay cities
+  lat:   38.0620135
+  long:  -122.1790838
+-
+  name:  Hill around Napa
+  lat:   38.4375015
+  long:  -122.5144511
+-
+  name:  Ocean
+  lat:   38.2349441
+  long:  -123.5110474
+-
+  name:  East Bay shore
+  lat:   37.4734276
+  long:  -121.9504952
+-
+  name:  East Bay shore
+  lat:   37.5478778
+  long:  -121.9604301
+-
+  name:  Marin Bay
+  lat:   37.9908905
+  long:  -122.5687027
+-
+  name:  SF
+  lat:   37.77984
+  long:  -122.51226
+-
+  name:  Sloughs
+  lat:   37.4916981
+  long:  -122.1765947
+-
+  name:  South tail
+  lat:   37.1874333
+  long:  -121.7365408
+-
+  name:  Solano flats
+  lat:   38.24931
+  long:  -122.04008
+-
+  name:  NapaSonoma
+  lat:   38.2092195
+  long:  -122.5135231
+-
+  name:  NE Bay cities
+  lat:   37.855
+  long:  -122.2891667  
+-
+  name:  Pt Reyes
+  lat:   38.0279461
+  long:  -122.9623318
+-
+  name:  SF
+  lat:   37.7381243
+  long:  -122.3725462
+-
+  name:  Silicon Valley
+  lat:   37.4348798
+  long:  -122.1947157
+-
+  name:  Solano flats
+  lat:   38.0810174
+  long:  -122.1038103
+-
+  name:  NW Sonoma  
+  lat:   38.3511476
+  long:  -122.9564095
+-
+  name:  East Bay hills  
+  lat:   37.8693993
+  long:  -122.2366494
+-
+  name:  Marin Bay
+  lat:   37.8621151
+  long:  -122.4330139
+-
+  name:  SF
+  lat:   37.764744
+  long:  -122.4390221
+-
+  name:  Coast
+  lat:   37.2521692
+  long:  -122.3699109
+-
+  name:  Coast  
+  lat:   37.1421193
+  long:  -122.3234081
+-
+  name:  Solano flats
+  lat:   38.1562245
+  long:  -122.1134233
+-
+  name:  Half Moon Bay
+  lat:   37.601498
+  long:  -122.5002678
+-
+  name:  East Bay shore
+  lat:   37.4948137
+  long:  -121.9760406
+-
+  name:  Stockton + flats
+  lat:   37.8362253
+  long:  -121.5814877
+-
+  name:  Marin Bay
+  lat:   38.0274109
+  long:  -122.515583
+-
+  name:  Hill around Napa
+  lat:   38.4868525
+  long:  -122.3617744
+-
+  name:  Would be Skyline
+  lat:   37.6194441
+  long:  -122.4879456
+-
+  name:  OSPs
+  lat:   37.2945979
+  long:  -122.0814396
+-
+  name:  SC hills
+  lat:   37.1963561
+  long:  -122.2032237
+-
+  name:  Solano flats
+  lat:   38.1468426
+  long:  -121.9815445
+-
+  name:  NapaSonoma
+  lat:   38.2470278
+  long:  -122.796464
+-
+  name:  East Bay cities
+  lat:   37.8054779
+  long:  -122.3259401
+-
+  name:  Hill around Napa
+  lat:   38.6266609
+  long:  -122.3885536
+-
+  name:  Sloughs
+  lat:   37.5220482
+  long:  -122.2501087
+-
+  name:  Santa Cruz
+  lat:   36.956202
+  long:  -122.0896912
+-
+  name:  Hill around Napa
+  lat:   38.8199161
+  long:  -122.9898834
+-
+  name:  East Bay cities
+  lat:   37.8101141
+  long:  -122.2140635
+-
+  name:  Hill around Napa
+  lat:   38.6646032
+  long:  -122.2537994
+-
+  name:  Sloughs
+  lat:   37.5065598
+  long:  -122.2461176
+-
+  name:  SC hills
+  lat:   37.1555945
+  long:  -122.1273172
+-
+  name:  NapaSonoma
+  lat:   38.454933
+  long:  -122.6523972
+-
+  name:  East Bay shore
+  lat:   37.5327708
+  long:  -122.0698932
+-
+  name:  Would be Skyline
+  lat:   37.586896
+  long:  -122.487779
+-
+  name:  Coast
+  lat:   37.16967
+  long:  -122.3570162
+-
+  name:  SC hills
+  lat:   37.1866308
+  long:  -122.338695
+-
+  name:  SE hills
+  lat:   37.0006248
+  long:  -121.7483693
+-
+  name:  SE hills
+  lat:   36.9984399
+  long:  -121.7394161
+-
+  name:  SC hills
+  lat:   37.0383933
+  long:  -122.0559597
+-
+  name:  Monterey Bay
+  lat:   36.9345941
+  long:  -121.6873598
