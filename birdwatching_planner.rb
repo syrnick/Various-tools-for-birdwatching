@@ -21,8 +21,6 @@ counties_file = ARGV[2] || "counties.yml"
 #counties_of_interest = ["San Mateo","Santa Clara", "Santa Cruz", "Alameda", "Contra Costa", "Solano", "Napa", "Sonoma", "Marin", "San Francisco"] 
 #counties_of_interest = ["Westchester", "Bronx", "Rockland", "Orange", "Putnam"]
 counties_of_interest = File.open( counties_file ) {|lf| YAML.load(lf)}
-p counties_of_interest
-exit
 
 doc = File.open(observations_file,'r') do |file|
   Nokogiri::HTML( file.read )
@@ -65,7 +63,7 @@ def find_landmark(all_landmarks,lat,long)
   
   poly_landmarks = all_landmarks[:region]
   best_poly = poly_landmarks.find do |poly|
-    is_point_in_poly(f_lat, f_long, poly)
+    is_point_in_poly(f_lat, f_long, poly) 
   end
   return best_poly[:name] if best_poly
 end
