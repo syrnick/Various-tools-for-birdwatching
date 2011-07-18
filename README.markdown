@@ -19,17 +19,17 @@ http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=202933467189883314896.00
 
     You can create your own map and draw your regions on it. The planner will collect all alerts within each region.
 
- 1. When you are done, you will need an RSS feed for that map. Look for "RSS" link above the map on the right. Copy the URL. It should look something like this:
-http://maps.google.com/maps/ms?ie=UTF8&hl=en&t=h&msa=0&output=georss&msid=202933467189883314896.00049912d6823abb690f2
+ 1. When you are done, you will need a KML file for that map. Look for KML link above the map on the right. Copy the URL. It should look something like this:
+http://maps.google.com/maps/ms?ie=UTF8&hl=en&t=h&msa=0&output=kml&msid=202933467189883314896.00049912d6823abb690f2
  
  1. Now we can generate our landmarks file from this feed. Run:
     
     
-         ruby google_map_to_landmarks.rb "Your RSS URL" >landmarks.yml
+         ruby google_map_to_landmarks.rb "Your KML URL >landmarks.yml
      
     e.g.
      
-         ruby google_map_to_landmarks.rb http://maps.google.com/maps/ms?ie=UTF8&hl=en&t=h&msa=0&output=georss&msid=202933467189883314896.00049912d6823abb690f2 >landmarks.yml
+         ruby google_map_to_landmarks.rb http://maps.google.com/maps/ms?ie=UTF8&hl=en&t=h&msa=0&output=kml&msid=202933467189883314896.00049912d6823abb690f2 >landmarks.yml
      
  1. Create the list of counties that you are interested in. See counties.yml for an example.
  
